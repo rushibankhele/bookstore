@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "First Post",
+        "title": "This is the first post content",
+        "price": 0, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 2,
+        "name": "Comedy ",
+        "title": "This is the first post content",
+        "price": 20, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "Entertainment "
+
+    },
+    {
+        "id": 3,
+        "name": "Sport book",
+        "title": "This is the Third post content",
+        "price": 50, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "sports"
+
+    },
+    {
+        "id": 4,
+        "name": "Music book",
+        "title": "This is the fourth post content",
+        "price": 150, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "song"
+
+    },
+    {
+        "id": 5,
+        "name": "history ",
+        "title": "This is the fifth post content",
+        "price": 600, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 6,
+        "name": "Science ",
+        "title": "This is the sixth post content",
+        "price": 40, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 7,
+        "name": "Mathematic ",
+        "title": "This is the first post content",
+        "price": 120, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 8,
+        "name": "hindi Book",
+        "title": "This is the first post content",
+        "price": 40, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 9,
+        "name": "Geography",
+        "title": "This is the first post content",
+        "price": 450, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 10,
+        "name": "Marathi",
+        "title": "This is the first post content",
+        "price": 0, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    },
+    {
+        "id": 11,
+        "name": "English",
+        "title": "This is the first post content",
+        "price": 0, 
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740",
+        "category": "free"
+
+    }
+
+]
